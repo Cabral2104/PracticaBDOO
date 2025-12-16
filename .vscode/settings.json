@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\valde\\Downloads\\objectdb-2.9.4\\objectdb-2.9.4\\bin\\objectdb-2.9.4.jar"
+    ]
+}
